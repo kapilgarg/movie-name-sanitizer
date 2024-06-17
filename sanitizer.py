@@ -2,7 +2,8 @@ import spacy
 
 _sanitizer = spacy.load('movie-name-sanitizer')
 
-def sanitize(name:str) -> dict :
+
+def sanitize(name: str) -> dict:
     """
     Sanitize the torrent name of a movie returns a dictionary containing details extracted from name.
     ex:
@@ -15,14 +16,10 @@ def sanitize(name:str) -> dict :
         'quality': 'web-dl',         
     }    
     """
-    
-    name = name.replace("."," ").lower()
+
+    name = name.replace(".", " ").lower()
     doc = _sanitizer(name)
     data = {}
     for ent in doc.ents:
         data[ent.label_] = ent.text
     return data
-
-
- 
-
