@@ -1,0 +1,55 @@
+{"label":"resolution","pattern":"720p"}
+{"label":"resolution","pattern":"1080p"}
+{"label":"resolution","pattern":"480p"}
+{"label":"quality","pattern":"bdrip"}
+{"label":"quality","pattern":"bd rip"}
+{"label":"quality","pattern":"bd.rip"}
+{"label":"quality","pattern":"brrip"}
+{"label":"quality","pattern":"br rip"}
+{"label":"quality","pattern":"br.rip"}
+{"label":"quality","pattern":"webscr"}
+{"label":"quality","pattern":"web scr"}
+{"label":"quality","pattern":"web.scr"}
+{"label":"quality","pattern":"dvdrip"}
+{"label":"quality","pattern":"dvd rip"}
+{"label":"quality","pattern":"dvd.rip"}
+{"label":"quality","pattern":"camrip"}
+{"label":"quality","pattern":"cam rip"}
+{"label":"quality","pattern":"cam.rip"}
+{"label":"quality","pattern":"dvdscr"}
+{"label":"quality","pattern":"dvd scr"}
+{"label":"quality","pattern":"dvd.scr"}
+{"label":"quality","pattern":"hdrip"}
+{"label":"quality","pattern":"hd rip"}
+{"label":"quality","pattern":"hd.rip"}
+{"label":"quality","pattern":"hdcam"}
+{"label":"quality","pattern":"hd cam"}
+{"label":"quality","pattern":"hd.cam"}
+{"label":"quality","pattern":"hddvd"}
+{"label":"quality","pattern":"hd dvd"}
+{"label":"quality","pattern":"hd.dvd"}
+{"label":"quality","pattern":"bluray"}
+{"label":"quality","pattern":"blu ray"}
+{"label":"quality","pattern":"blu.ray"}
+{"label":"quality","pattern":"hdts"}
+{"label":"quality","pattern":"hd ts"}
+{"label":"quality","pattern":"hd.ts"}
+{"label":"quality","pattern":"telesync"}
+{"label":"quality","pattern":"hdtv"}
+{"label":"quality","pattern":"hd tv"}
+{"label":"quality","pattern":"hd.tv"}
+{"label":"quality","pattern":"ts "}
+{"label":"quality","pattern":"ts."}
+{"label":"quality","pattern":" ts"}
+{"label":"quality","pattern":".ts"}
+{"label":"quality","pattern":"tvrip"}
+{"label":"quality","pattern":"tv rip"}
+{"label":"quality","pattern":"tv.rip"}
+{"label":"quality","pattern":"web-dl"}
+{"label":"quality","pattern":"r4"}
+{"label":"quality","pattern":"r5"}
+{"label":"quality","pattern":"r6"}
+{"label":"dim","pattern":"2d"}
+{"label":"dim","pattern":"3d"}
+{"label":"dim","pattern":"5d"}
+{"label":"dim","pattern":"7d"}
